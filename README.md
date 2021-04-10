@@ -1,10 +1,10 @@
 # Single-Label-Multi-Class-Text-Classification
 
 Script consits of two parts
-- Part A: Sentiment Polarity Classification
-- Part B: Subreddit Classification
+- Part A: Sentiment Polarity Classification (5 distinct labels)
+- Part B: Subreddit Classification (20 distinct labels)
 
-Both parts invlove the following stages:
+Both parts involve the following steps:
 1. Data pre-processing
 2. Vectorization 
 3. Model Creation
