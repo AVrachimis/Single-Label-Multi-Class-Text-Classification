@@ -1,6 +1,6 @@
 # Single-Label-Multi-Class-Text-Classification
 
-Script consits of two parts
+Script consists of two parts
 - Part A: Sentiment Polarity Classification (5 distinct labels)
 - Part B: Subreddit Classification (20 distinct labels)
 
