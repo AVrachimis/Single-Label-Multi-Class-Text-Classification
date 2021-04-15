@@ -6,8 +6,19 @@ The script consists of two parts
 
 Both parts involve the following steps:
 1. Data pre-processing
-2. Vectorization 
-3. Model Creation
-4. Parameter Tuning
-5. Error Analysis
-6. Word Embeddings, optimizing the models created
+  > Normalizetion <br>
+  > Tokenization
+3. Vectorization
+  > One Hot Encoding <br>
+  > TF-IDF 
+5. Model Creation
+  > Logistic Regression <br>
+  > SVC <br>
+  > Random Forest <br>
+  > BernoulliNB <br>
+  > Decision Tree <br>
+7. Parameter Tuning 
+  > GridSearchCV
+9. Error Analysis
+10. Word Embeddings, optimizing the models created
+  > Word2Vec
