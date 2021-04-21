@@ -6,8 +6,8 @@ The script consists of two parts
 
 Both parts involve the following steps:
 1. Data pre-processing
-  > Normalization <br>
-  > Tokenization
+  > Tokenization <br>
+  > Normalization 
 2. Vectorization
   > One Hot Encoding <br>
   > TF-IDF 
