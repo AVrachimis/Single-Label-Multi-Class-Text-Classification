@@ -1,4 +1,4 @@
-# Single-Label-Multi-Class-Text-Classification
+# Single Label Multi Class Text Classification
 
 The script consists of two parts
 - Part A: Sentiment Polarity Classification (5 distinct labels)
